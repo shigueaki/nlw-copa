@@ -7,7 +7,7 @@ NLW é um evento que aconteceu entre 31/10/2022 e 07/11/2022 e trouxe muito cont
 <ul>
   <li>React Native</li>
   <li>Next.js</li>
-  <li>Node.js<li></li></li>
+  <li>Node.js<ul><li>Fastify</li></ul></li>
 </ul>
 
 <h2>Principais bibliotecas<h2>   
