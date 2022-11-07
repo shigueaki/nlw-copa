@@ -5,14 +5,14 @@ NLW é um evento que aconteceu entre 31/10/2022 e 07/11/2022 e trouxe muito cont
 
 <h2>Tecnologias utilizadas<h2>
 <ul>
-  <li>React Native</li>
-  <li>Next.js</li>
-  <li>Node.js<ul><li>Fastify</li></ul></li>
+  <li>React Native<ul><li>Typescript</li><li>Native Base</li><li>Expo</li></ul></li>
+  <li>Next.js<ul><li>Typescript</li><li>Tailwindcss</li></ul></li>
+  <li>Node.js<ul><li>Typescript</li><li>Fastify</li></ul></li>
 </ul>
 
 <h2>Principais bibliotecas<h2>   
 <ul>
   <li>Fastify</li>
-  <li>Native Base</li>
+  <li></li>
   <li>Expo</li>
 </ul>
