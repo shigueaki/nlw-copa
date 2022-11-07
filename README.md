@@ -9,10 +9,3 @@ NLW é um evento que aconteceu entre 31/10/2022 e 07/11/2022 e trouxe muito cont
   <li>Next.js<ul><li>Typescript</li><li>Tailwindcss</li></ul></li>
   <li>Node.js<ul><li>Typescript</li><li>Fastify</li></ul></li>
 </ul>
-
-<h2>Principais bibliotecas<h2>   
-<ul>
-  <li>Fastify</li>
-  <li></li>
-  <li>Expo</li>
-</ul>
